@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/DSC03402.jpg"  ]
+[preload  storage="./data/bgimage/DSC03574.jpg"  ]
+[preload  storage="./data/bgimage/DSC03401.jpg"  ]
+[preload  storage="./data/bgimage/kiyoshiLow.jpg"  ]
+[preload  storage="./data/bgimage/kiyoshi2Low.jpg"  ]
+[return]

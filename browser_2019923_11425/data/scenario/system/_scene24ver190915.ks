@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/room2_keta.png"  ]
+[preload  storage="./data/bgimage/Screen_Shot_2019-09-16_at_0.08.52.png"  ]
+[preload  storage="./data/bgimage/yamaguchihome1.png"  ]
+[preload  storage="./data/bgimage/bicycle_keta.png"  ]
+[return]

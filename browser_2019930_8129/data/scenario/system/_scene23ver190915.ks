@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/yamaguchihome2.png"  ]
+[preload  storage="./data/bgimage/yamaguchi3.png"  ]
+[preload  storage="./data/fgimage/chara/4/runR_keta.png"  ]
+[preload  storage="./data/fgimage/chara/4/lookup_keta.png"  ]
+[return]

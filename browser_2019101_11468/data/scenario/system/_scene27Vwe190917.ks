@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/DSC03401.jpg"  ]
+[preload  storage="./data/bgimage/DSC03583.jpg"  ]
+[preload  storage="./data/fgimage/chara/1/crossseat_mayor1.png"  ]
+[preload  storage="./data/fgimage/default/DSC03446.jpg"  ]
+[preload  storage="./data/fgimage/chara/4/lookup_keta.png"  ]
+[preload  storage="./data/fgimage/chara/4/stand_keta.png"  ]
+[return]

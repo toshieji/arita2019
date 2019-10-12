@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/DSC03315.jpg"  ]
+[preload  storage="./data/bgimage/DSC03314.jpg"  ]
+[preload  storage="./data/bgimage/DSC03550.jpg"  ]
+[preload  storage="./data/bgimage/DSC03541.jpg"  ]
+[preload  storage="./data/bgimage/DSC03634.jpg"  ]
+[preload  storage="./data/bgimage/DSC03750.jpg"  ]
+[preload  storage="./data/bgimage/galaxy.png"  ]
+[return]

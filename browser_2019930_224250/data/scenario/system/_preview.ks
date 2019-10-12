@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/yamaguchihome1.png"  ]
+[preload  storage="./data/bgimage/room_keta.png"  ]
+[preload  storage="./data/fgimage/chara/1/crossseat_mayor1.png"  ]
+[preload  storage="./data/fgimage/chara/4/lookup_keta.png"  ]
+[preload  storage="./data/fgimage/chara/4/stand_keta.png"  ]
+[return] 

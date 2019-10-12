@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/yamaguchihome1.png"  ]
+[preload  storage="./data/bgimage/yamaguchihome2.png"  ]
+[preload  storage="./data/bgimage/kiyoshi.png"  ]
+[preload  storage="./data/bgimage/kiyoshi2.png"  ]
+[return] 

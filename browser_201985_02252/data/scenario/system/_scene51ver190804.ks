@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/cityhall_overview_Arita.png"  ]
+[preload  storage="./data/bgimage/jail.jpg"  ]
+[preload  storage="./data/bgimage/heartbeat.jpg"  ]
+[preload  storage="./data/bgimage/stock.jpg"  ]
+[return]

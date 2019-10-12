@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/UNADJUSTEDNONRAW_thumb_dc06.jpg"  ]
+[preload  storage="./data/bgimage/w640h940.png"  ]
+[preload  storage="./data/bgimage/KakinomotoVer190804.png"  ]
+[preload  storage="./data/bgimage/UNADJUSTEDNONRAW_thumb_dc39.jpg"  ]
+[preload  storage="./data/bgimage/UNADJUSTEDNONRAW_thumb_dc9e.jpg"  ]
+[preload  storage="./data/bgimage/galaxy.png"  ]
+[return]

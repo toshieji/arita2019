@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/room.jpg"  ]
+[preload  storage="./data/fgimage/chara/1/normal.png"  ]
+[preload  storage="./data/bgimage/rouka1.jpg"  ]
+[preload  storage="./data/fgimage/chara/1/yokobo.png"  ]
+[preload  storage="./data/fgimage/chara/1/nyaa.png"  ]
+[return]

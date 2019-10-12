@@ -1,0 +1,33 @@
+[_tb_system_call storage=system/_scene1.ks]
+
+[cm  ]
+[bg  storage="AritaVer190804.png"  time="1000"  ]
+[tb_show_message_window  ]
+[tb_start_text mode=2 ]
+20**年。[l][r]
+ここは地球なる星の『有田』という町だ。[l][r]
+私は今、この町で人生最大の危機を迎えている・・・[l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=2 ]
+おっと、自己紹介が遅れてしまった。[l][r]
+私の名前は『WACA11782』。[l][r]
+この星から53万光年離れた惑星『ペルソナ』からやって来た、異星人だ。[l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=2 ]
+いや、異星人だった・・・としたほうが正しいな。[l][r]
+なぜなら、私は今、この有田町の「町長」なる役職に就いているからだ。[l][r]
+[_tb_end_text]
+
+[cm  ]
+[tb_start_text mode=2 ]
+そう、この町での私の名前は『松江はじめ』。[l][r]
+町民からは『松江町長』と呼ばれている。[l][r]
+[_tb_end_text]
+
+[cm  ]
+[jump  storage="scene21ver190804.ks"  target=""  ]
+[s  ]
